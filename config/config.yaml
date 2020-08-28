@@ -1,0 +1,18 @@
+server:
+  total: 2
+  user: root
+  pwd: dev
+  ip: 172.16.16.17
+  port: 22
+  shell: /tmp/test.sh
+server1:
+  user: root
+  pwd: rot
+  ip: 172.16.16.17
+  shell: /tmp/test.sh
+server2:
+  user: devser
+  pwd: devser
+  ip: 172.16.16.17
+  port: 22
+  shell: /tmp/test1.sh
